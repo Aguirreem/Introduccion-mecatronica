@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>          
+    
+    </head>
+    <body>
+        <p>Hola mundo</p>
+        <h1>Pagina 2</h1>
+        <img src="camion.jpg" width="300px">
+        <a href="https://www.google.com.mx/?hl=es-419">Hipervinculo</a>
+    </body>
+</html>
